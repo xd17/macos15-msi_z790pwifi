@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleGetInfoString</key>
+	<string>SakuraEthernet For i22x/21x</string>
+	<key>CFBundleIdentifier</key>
+	<string>cn.laobamac.SakuraEthernet</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>CFBundleName</key>
+	<string>SakuraEthernet For i22x/21x</string>
+	<key>CFBundlePackageType</key>
+	<string>KEXT</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.15</string>
+	<key>OSBundleLibraries</key>
+	<dict>
+		<key>com.apple.driver.mDNSOffloadUserClient</key>
+		<string>1.0.0d7</string>
+		<key>com.apple.iokit.IOEthernetAVBController</key>
+		<string>1.0.3b2</string>
+		<key>com.apple.iokit.IONetworkingFamily</key>
+		<string>1.5</string>
+		<key>com.apple.iokit.IOPCIFamily</key>
+		<string>1.7</string>
+		<key>com.apple.kpi.bsd</key>
+		<string>13.0.0</string>
+		<key>com.apple.kpi.iokit</key>
+		<string>13.0.0</string>
+		<key>com.apple.kpi.libkern</key>
+		<string>13.0.0</string>
+		<key>com.apple.kpi.mach</key>
+		<string>13.0.0</string>
+	</dict>
+	<key>OSBundleRequired</key>
+	<string>Network-Root</string>
+</dict>
+</plist>
+y>OSBundleRequired</key>
+	<string>Network-Root</string>
+</dict>
+</plist>
+leRequired</key>
+	<string>Network-Root</string>
+</dict>
+</plist>
+y>OSBundleRequired</key>
+	<string>Network-Root</string>
+</dict>
+</plist>
+plist>
+sd</key>
+		<string>13.0.0</string>
+		<key>com.apple.kpi.iokit</key>
+		<string>13.0.0</string>
+		<key>com.apple.kpi.libkern</key>
+		<string>13.0.0</string>
+		<key>com.apple.kpi.mach</key>
+		<string>13.0.0</string>
+	</dict>
+	<key>OSBundleRequired</key>
+	<string>Network-Root</string>
+</dict>
+</plist>
+y>OSBundleRequired</key>
+	<string>Network-Root</string>
+</dict>
+</plist>
+leRequired</key>
+	<string>Network-Root</string>
+</dict>
+</plist>
+y>OSBundleRequired</key>
+	<string>Network-Root</string>
+</dict>
+</plist>
